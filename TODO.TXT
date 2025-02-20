@@ -1,0 +1,8 @@
+Using this modern stack, we will build a basic user management API that will perform the following CRUD operations:
+
+Create user accounts
+Read user profiles
+Update user information
+Delete user accounts
+
+Express will be used to build the web server, Prisma the ORM, MongoDB as the database, and Zod to validate payloads.
